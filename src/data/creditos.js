@@ -59,47 +59,12 @@ const creditos = [
                             <li>Edwin Calderón Quesada</li>
                             <li>Dagoberto Meza Romero</li>
                           </ul>
-
+                          <h4 class="mt-3"><strong>Sonámbulo Psicotropical</strong></h4>
                           <!-- Puedes añadir más bloques aquí en la columna derecha -->
                         </div>
                       </div>
                     </section>`,
-          },
-          {
-            type: "header",
-            content: "Colaboradores en el desarrollo del proyecto",
-          },
-          {
-            type: "div",
-            content: `
-                      <!-- A partir de aquí el contenido se organiza en 2 columnas responsive -->
-                      <div class="row mt-4">
-                        <div class="col-12 col-sm-6 mb-3">
-                          <ul>
-                            <li>Amanda Obregón Apéstegui</li>
-                            <li>Carol Campos Benavides</li>
-                            <li>David Cuenca Alpízar</li>
-                            <li>Enrique Sánchez Sibaja</li>
-                            <li>Kate Sibaja Castro</li>
-                            <li>María José Esquivel Fuentes</li>
-                            <li>Noah Cuenca Chacón</li>
-                          </ul>
-                        </div>
-
-                        <div class="col-12 col-sm-6 mb-3">
-                          <ul>
-                            <li>Pablo Vargas Unfried</li>
-                            <li>Rafael A. Vargas Retana</li>
-                            <li>Silvia Vargas Unfried</li>
-                            <li>Tito Fuentes Sauna</li>
-                            <li>Vanessa Gómez MAroto</li>
-                            <li>Xímena Obregón Apéstegui</li>
-                            <li><strong>Sonámbulo Psicotropical</strong></li>
-                          </ul>
-                        </div>
-                      </div>
-                    </section>`,
-          },
+          }
         ],
       },
     },
